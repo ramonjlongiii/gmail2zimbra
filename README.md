@@ -1,7 +1,7 @@
 gmail2zimbra
 ============
 
-A handy script to automate email domain migrations from Gmail to Zimbra.
+A handy script to automate email domain migrations from Gmail to Zimbra using imapsync.
 
 # Script:       
 gmail2zimbra.sh
